@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&family=Hanken+Grotesk:wght@500;700;800&family=Roboto:wght@400;700&display=swap');
+
+
+:root{
+--Almost-White-: hsl(0, 0%, 98%);
+--Medium-Gray-: hsl(0, 0%, 41%);
+--Almost-Black-: hsl(0, 0%, 8%);
+}
+
+
+
+.main-container{
+    background-color: #fafafa;
+    font-family: 'Epilogue', sans-serif;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
